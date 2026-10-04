@@ -23,3 +23,21 @@ This project demonstrates how Generative AI can assist with tasks in a corporate
 ## Key Principle
 
 > AI can simplify and support human work, but its outputs should be independently verified before being used to support important business decisions.
+
+## Project Contents
+
+### Excel Analysis
+The Excel workbook contains the sales dataset, calculations, KPIs, employee performance analysis, attendance analysis, and summary metrics.
+
+### AI Prompts
+The prompts folder contains examples of AI prompts used for Excel formula generation, management summaries, and structured meeting-note analysis.
+
+### Business Workflows
+The workflows folder documents the AI-assisted corporate reporting workflow, including human verification steps.
+
+### Management Report
+The reports folder contains the final management report in Word and PDF formats, based on the verified Excel analysis.
+
+## Project Workflow
+
+Raw Data → Excel Analysis → AI Assistance → Verification → Business Insights → Management Report
